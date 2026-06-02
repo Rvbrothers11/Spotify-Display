@@ -11,7 +11,8 @@ This project is literally as the name suggests, a spotify displayyy! The aim of 
 
 Final Model Image:
 
-<img width="1032" height="733" alt="image" src="https://github.com/user-attachments/assets/ec498aa7-0e9f-4604-8a37-42c4c3f3f0a4" />
+<img width="755" height="1124" alt="Screenshot 2026-06-01 210946" src="https://github.com/user-attachments/assets/ad124209-2074-4c57-874f-77401515406d" />
+
 
 
 
@@ -50,7 +51,8 @@ Connect as per the wiring diagram given below using jumper wires and close the m
 
 Connect the C3 to your laptop using a C-type wire or whatever is required. Upload the code given in the Code folder, run the code and when prompted add your wifi ssid, spotify api key. 
 
-Voila! Your own Spotify Display!!!
+Voila! Your own Spotify Display!!! (Remember to put your headphones on the stand bro!)
+
 
 Wiring Diagram:
 
@@ -99,8 +101,8 @@ Bill of Materials:
                 <td>3D Print</td>
                 <td>Custom 3D printed components</td>
                 <td style="text-align: center;">1</td>
-                <td class="price-col">$5.000</td>
-                <td class="price-col">$5.000</td>
+                <td class="price-col">$7.000</td>
+                <td class="price-col">$7.000</td>
                 <td>N/A</td>
             </tr>
             <tr>
@@ -129,7 +131,7 @@ Bill of Materials:
             </tr>
             <tr class="grand-total">
                 <td colspan="4" style="text-align: right;">GRAND TOTAL</td>
-                <td class="price-col">$14.534</td>
+                <td class="price-col">$16.534</td>
                 <td></td>
             </tr>
         </tbody>
@@ -141,6 +143,7 @@ Bill of Materials:
 
 Zine Image:
 
-<img width="786" height="1212" alt="image" src="https://github.com/user-attachments/assets/970af3e8-9bc3-4f15-aa98-694c0a314517" />
+<img width="767" height="1179" alt="image" src="https://github.com/user-attachments/assets/29684437-eed1-4aee-b6d4-62616b79c6f2" />
+
 
 
