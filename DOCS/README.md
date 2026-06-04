@@ -21,7 +21,8 @@ Start by 3D printing these 3 pieces found in the CAD folder:
 
 Main Case:
 
-<img width="1189" height="795" alt="image" src="https://github.com/user-attachments/assets/0b6cf0e9-c522-4047-beb3-f2090453162b" />
+<img width="702" height="678" alt="image" src="https://github.com/user-attachments/assets/d936682c-102e-41ef-8292-2e185048bbf4" />
+
 
 
 Top Cover:
@@ -32,6 +33,11 @@ Top Cover:
 Back Cover:
 
 <img width="831" height="893" alt="image" src="https://github.com/user-attachments/assets/5fd45095-6180-4e49-b0ea-3bc24876d57c" />
+
+Headphone Stand:
+
+<img width="688" height="1017" alt="image" src="https://github.com/user-attachments/assets/7706b0a0-0f9a-4cbb-8964-ffecf486cfc3" />
+
 
 
 Add the heat inserts into their respective holes:
@@ -46,7 +52,8 @@ Add the TFT display and the C3 mini microcontroller:
 
 Connect as per the wiring diagram given below using jumper wires and close the model using the covers using M2x6mm screws:
 
-<img width="1157" height="866" alt="image" src="https://github.com/user-attachments/assets/d56060d9-90b4-4f8b-9f5b-34bfef90a590" />
+<img width="390" height="765" alt="image" src="https://github.com/user-attachments/assets/6136dff1-4b29-46fa-a40f-6edc2c69cdd2" />
+
 
 
 Connect the C3 to your laptop using a C-type wire or whatever is required. Upload the code given in the Code folder, run the code and when prompted add your wifi ssid, spotify api key. 
