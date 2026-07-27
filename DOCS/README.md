@@ -1,6 +1,8 @@
 # Spotify-Display
 A 3D printed touchscreen spotify display!
 
+This Project needs manual review.
+
 
 **What inspired me to make it:**
 I am a really lazy individual who has recently started listening to alot of songs. However, sometimes, the songs that play are a little boring so I want to switch to the next song, or really good such that I want to listen to the song again, or just keep track of the song length and time passed. Instead of switching on my phone or switching tabs on my laptop I wanted a faster and easier way to do this. ENTER: Spotify Display!!!!!!
